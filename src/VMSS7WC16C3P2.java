@@ -37,6 +37,5 @@ public class VMSS7WC16C3P2 {
 		// output
 		if(vis[B]) System.out.println("GO SHAHIR!");
 		else System.out.println("NO SHAHIR!");
-
 	}
 }
